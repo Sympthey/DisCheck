@@ -17,7 +17,7 @@
 - Install the modules needed in the requirements.txt `pip install requirements.txt`
 ---
 ## How To Use
-After you have completed the [installtion](#Installation) its as easy as running the script.<br> This can be done like so `python main.py`. Once it has ran a dialog box will show, naviagte to where your discord tokens are saved and then it will run the checker.<br>
+After you have completed the [installation](#Installation) its as easy as running the script.<br> This can be done like so `python main.py`. Once it has ran a dialog box will show, naviagte to where your discord tokens are saved and then it will run the checker.<br>
 `The Results are saved into the 'results' folder.`
 
 ---
