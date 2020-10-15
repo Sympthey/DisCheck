@@ -66,6 +66,8 @@ async def main():
     for token in tokens:
         cleaned_token = str(token).strip()
         await check_token(cleaned_token)
+    input("Press Any Key To Exit...")
+    sys.exit()
     
 
 asyncio.run(main())
