@@ -49,6 +49,12 @@ SOFTWARE.
 ---
 # Developer Contact
 
-- Discord: Sympthey#9640
+[Youtube](https://www.youtube.com/channel/UCG-oO6m-iOuonFUbk6HU67w?view_as=subscriber)
+
+[Instagram](https://www.instagram.com/Sympthey/)
+
+[Twitter](https://twitter.com/Sympthey)
+
+Discord: Sympthey#9308
 
 [Back To The Top](#Asynchronous-Discord-Token-Checker)
