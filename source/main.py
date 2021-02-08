@@ -42,7 +42,7 @@ async def check_token(token):
             await write_tokens(token, "Locked")
 
         if send_data.status == 401:
-            print(Fore.RED+f"[INVALID] - {token}{token}")
+            print(Fore.RED+f"[INVALID] - {token}")
             await write_tokens(token, "Invalid")
 
         if send_data.status == 429:
